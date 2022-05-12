@@ -4,7 +4,7 @@
 
 <div align="center" width="50">
 
-<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome 🤝" width="300"/>
+<img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
 
 </div>
 
@@ -13,7 +13,7 @@ You have finally discovered my Github profile. <br>
 Happy Coding! 😋
 
 
-I'm currently learning IT in the EELU university 😁
+- I'm currently learning IT in the EELU university 😁
 But I have been learning programming since 2019 😄
 I'm very very love programming 🖤
 And I'm love problem solving very much too 😍
