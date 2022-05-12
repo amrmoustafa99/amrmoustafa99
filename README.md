@@ -5,7 +5,7 @@
 
 <div align="center" width="50">
 
-<img src="ezgif-2-02c871e4a0.gif" alt="Welcome!" width="300"/>
+<img src="Amr logo.gif" alt="Welcome!" width="300"/>
 
 </div>
 
