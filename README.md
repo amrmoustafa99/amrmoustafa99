@@ -5,7 +5,7 @@
 
 <div align="center" width="50">
 
-<img src="https://drive.google.com/file/d/1UJs0BO3wxRjVrYr1tWO6FUSjKiOjgQY_/view?usp=sharing" alt="Welcome!" width="300"/>
+<img src="ezgif-2-02c871e4a0.gif" alt="Welcome!" width="300"/>
 
 </div>
 
