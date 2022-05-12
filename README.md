@@ -5,7 +5,7 @@
 
 <div align="center" width="50">
 
-<img src="ezgif-2-02c871e4a0.gif" alt="Welcome!" width="500"/>
+<img src="ezgif-2-02c871e4a0.gif" alt="Welcome!" width="350"/>
 
 </div>
 
