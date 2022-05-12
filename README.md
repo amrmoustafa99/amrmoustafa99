@@ -22,15 +22,7 @@ Happy Coding! 😋
 - I'm still learning about mobile apps development 😋
 - And I have some skills in web development 🤏
 
-<div align="center">
 
-<i>Follow me:</i><br>
-
-<a href="https://www.linkedin.com/in/amr-moustafa-7a7801201" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/amr_shapoon?r=nametag" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/amrshapon2000" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-   <br>
-⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
    
    
    
