@@ -1,6 +1,7 @@
 
 
-<h2> 𝐇𝐞𝐥𝐥𝐨  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+<h1 align="center">Hi  <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Amr Moustafa</h1>
+<h3 align="center">Junior mobile developer</h3>
 
 <div align="center" width="50">
 
@@ -32,8 +33,7 @@ Happy Coding! 😋
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
    
    
-   <h1 align="center">Hi 👋, I'm Amr Moustafa</h1>
-<h3 align="center">Junior mobile developer from Egypt</h3>
+   
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
