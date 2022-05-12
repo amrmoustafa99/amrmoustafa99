@@ -14,12 +14,12 @@ Happy Coding! 😋
 
 
 - I'm currently learning IT in the EELU university 😁
-But I have been learning programming since 2019 😄
-I'm very very love programming 🖤
-And I'm love problem solving very much too 😍
-I like playing football too ❤
-I'm still learning about mobile apps development 😋
-And I have some skills in web development 🤏
+- But I have been learning programming since 2019 😄
+- I'm very very love programming 🖤
+- And I'm love problem solving very much too 😍
+- I like playing football too ❤
+- I'm still learning about mobile apps development 😋
+- And I have some skills in web development 🤏
 
 <div align="center">
 
