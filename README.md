@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amrmoustafa99&label=Profile%20views&color=0e75b6&style=flat" alt="amrmoustafa99" /> </p>
 
-- I'm currently learning IT in the EELU university **😁**
+- Bachelor of Computer Science - Egyptian E-Learning University – **😁**
 
 - And I'm love problem solving very much too **😍**
 
